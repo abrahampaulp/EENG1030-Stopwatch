@@ -54,7 +54,7 @@ and Reset. Two LEDs indicate running state.
 - 
 ## How to Build and Flash
 1. Install [PlatformIO](https://platformio.org/) in VS Code
-2. Clone this repository:https://github.com/YOUR_USERNAME/EENG1030-Stopwatch.git
+2. Clone this repository:https://github.com/abrahampaulp/EENG1030-Stopwatch.git
 3. Open the folder in VS Code
 4. Connect the Nucleo board via USB
 5. Click **Upload** in PlatformIO sidebar
